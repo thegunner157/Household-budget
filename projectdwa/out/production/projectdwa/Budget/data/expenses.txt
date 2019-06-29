@@ -1,0 +1,67 @@
+What:			Date:			Price[pln]:
+Planned:
+
+Food:
+Groceries			20.06.2019			250
+Groceries			20.07.2019			250
+
+House:
+Credit			21.06.2019			300
+Credit			21.07.2019			300
+Electricity bill			26.06.2019			450
+Electricity bill			26.07.2019			450
+Water bill			26.06.2019			267
+Water bill			26.07.2019			267
+Phone&internet bill		26.06.2019			200
+Phone&internet bill		26.07.2019			200
+
+Other bills:
+Car leasing			26.06.2019			600
+Car leasing			26.07.2019			600
+Insurance			26.06.2019			700
+Insurance			26.07.2019			700
+Car insurance			26.06.2019			1000
+Car insurance			26.07.2019			1000
+
+Health&Hygienne:
+Toothbrushes			15.06.2019			20
+
+Clothing:
+Washing liquid			18.06.2019			80
+
+Relax:
+Cinema			09.06.2019			60
+Restaurant			30.06.2019			100
+Restaurant			30.07.2019			100
+
+Transport:
+Fuel			23.06.2019			150
+Fuel			23.07.2019			150
+
+Unplanned:
+
+Food:
+Snacks			10.06.2019			30
+
+House:
+Pillows			27.06.2019			200
+Pillows			27.07.2019			200
+Other bills:
+
+Health&Hygienne:
+Medicines			05.06.2019			50
+Medicines			05.07.2019			50
+
+Clothing:
+T-shirt			11.06.2019			50
+
+Relax:
+Squash			14.06.2019			20
+
+
+Transport:
+
+
+
+
+		

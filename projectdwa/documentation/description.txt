@@ -1,0 +1,15 @@
+Projekt Budżet Domowy:
+
+Opis z instrukcją uruchomienia: 
+
+Aplikacja polega na przedstawieniu użytkownikowi, który wcześniek podał dwa pliki tekstowe odpowiednio ze spisem wydatków podzielonych na kategorie oraz przychodów. Nazywać się one mają odpowiednio "expenses.txt" oraz "income.txt". Użytkownik może w aplikacji zobaczyć zestaw danych, jaki podał w pliku tekstowym, wykresy bilansu dziennego w danym miesiącu, a także bilansu miesięcznego w danym roku. Wykresy zmieniają się po wpisaniu w pole tekstowe danych, kliknięciu przycisku "select" oraz powtórnego cofniecia się do podmenu i powrocie w ten sam plik. Do tworzenia wykresów używam zewnętrznej biblioteki JFreeChart. Użytkownik może sprawdzić również ostrzeżenia dotyczące przekroczenia dziennego limitu (aczkolwiek wygenerują się one po sprawdzeniu wpierw wykresu). Aplikacje uruchamiamy w środowisku IntellIJ po kliknięciu w zielony przycisk start :).
+
+
+Model obiektowy:
+
+Oprócz klas dla interfejsów posiadam klasę UsefulTransformations która posiada, jak sama nazwa wskazuje, użyteczne metody tj. odpowiednio wyciagnięcie dnia, miesiąca oraz roku z daty.
+Po niej dziedziczą dwie klasy. OverallDatatoChat, która zlicza sumę zaplanowanych oraz niezaplanowanych przychodów/wydatków. Druga klasa to OverallData implementująca interfejs Comparable, który sortuje elementy po dacie. Po klasie OverallData dziedziczy klasa ExpensesData, która zawiera dodatkowo informacje o kategorii budżetu.
+
+
+
+   
